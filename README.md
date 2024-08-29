@@ -35,24 +35,24 @@ Figures 2-4 and 6-7 can be seen below. Figure 5 was a replication of an ICE grap
 For in-text citations of data, the script `replication_code.r` contains the commented code to produce each statistic and the result.
 
 Fig. 2
-<img src=https://github.com/Research-Basecamp/white-paper_replication/blob/main/figures/orig_fig2.png width="310"><img src=https://github.com/Research-Basecamp/white-paper_replication/blob/main/figures/rep_fig2.png width="300">
-Data [here](https://github.com/Research-Basecamp/white-paper_replication/tree/main/figuredata)
+<img src=https://github.com/RelevantResearch/replication-endless-nightmare/tree/main/figures/orig_fig2.png width="310"><img src=https://github.com/RelevantResearch/replication-endless-nightmare/tree/main/figures/rep_fig2.png width="300">
+Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/tree/main/figuredata)
 
 Fig. 3
-<img src=https://github.com/Research-Basecamp/white-paper_replication/blob/main/figures/orig_fig3.png width="317"><img src=https://github.com/Research-Basecamp/white-paper_replication/blob/main/figures/rep_fig3.png width="300">
-Data [here](https://github.com/Research-Basecamp/white-paper_replication/tree/main/figuredata)
+<img src=https://github.com/RelevantResearch/replication-endless-nightmare/tree/main/figures/orig_fig3.png width="317"><img src=https://github.com/RelevantResearch/replication-endless-nightmare/tree/main/figures/rep_fig3.png width="300">
+Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/tree/main/figuredata)
 
 Fig. 4
-<img src=https://github.com/Research-Basecamp/white-paper_replication/blob/main/figures/orig_fig4.png width="325"><img src=https://github.com/Research-Basecamp/white-paper_replication/blob/main/figures/rep_fig4.png width="300">
-Data [here](https://github.com/Research-Basecamp/white-paper_replication/tree/main/figuredata)
+<img src=https://github.com/RelevantResearch/replication-endless-nightmare/tree/main/figures/orig_fig4.png width="325"><img src=https://github.com/RelevantResearch/replication-endless-nightmare/tree/main/figures/rep_fig4.png width="300">
+Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/tree/main/figuredata)
 
 Fig. 6
-<img src=https://github.com/Research-Basecamp/white-paper_replication/blob/main/figures/orig_fig6.png width="326"><img src=https://github.com/Research-Basecamp/white-paper_replication/blob/main/figures/rep_fig6.png width="350">
-Data [here](https://github.com/Research-Basecamp/white-paper_replication/tree/main/figuredata)
+<img src=https://github.com/RelevantResearch/replication-endless-nightmare/tree/main/figures/orig_fig6.png width="326"><img src=https://github.com/RelevantResearch/replication-endless-nightmare/tree/main/figures/rep_fig6.png width="350">
+Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/tree/main/figuredata)
 
 Fig. 7
-<img src=https://github.com/Research-Basecamp/white-paper_replication/blob/main/figures/orig_fig7.png width="300"><img src=https://github.com/Research-Basecamp/white-paper_replication/blob/main/figures/rep_fig7.png width="306">
-Data [here](https://github.com/Research-Basecamp/white-paper_replication/tree/main/figuredata)
+<img src=https://github.com/RelevantResearch/replication-endless-nightmare/tree/main/figures/orig_fig7.png width="300"><img src=https://github.com/RelevantResearch/replication-endless-nightmare/tree/main/figures/rep_fig7.png width="306">
+Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/tree/main/figuredata)
 
 ### Results
 The vast majority of calculations using the FOIA case-by-case records are correct. 
