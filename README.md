@@ -81,7 +81,7 @@ The three minor discrepancies are explained below.
 
 To reiterate, none of the discrepancies found here should assume that the research team committed errors in calculation.
 This replication merely points out the minimal situations in which the calculations do not seem to align between the researchers processing in Stata and our analysis in R.
-If any of the discrepancies do in fact rise to the level of error, it does not impact the findings of the Report.
+If any of the discrepancies do in fact rise to the level of error, it does not impact the findings of the report.
 Solitary confinement in ICE detention remains a subject deserving of further scrutiny, and we applaud the research team for their persistence in documenting abuses and making their data, methods, and findings public.
 
 ### Conclusion
