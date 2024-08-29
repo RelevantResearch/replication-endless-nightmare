@@ -88,4 +88,5 @@ Solitary confinement in ICE detention remains a subject deserving of further scr
 
 Relevant Research's replication study affirms the quality of the Harvard team's methodology and findings (we note only minimal discrepancies) and we make our results evident below.
 We commend the interdisciplinary team for publishing structured descriptions of work in public repositories and encourage more researchers to do the same.
+If you wish to cite this repository, please use the DOI [https://doi.org/10.5281/zenodo.13526451](https://doi.org/10.5281/zenodo.13526451).
 For questions or inquiries about how Relevant Research can provide data discovery (including through FOIA requests), data analysis, replication studies, data visualization, and data write-up, please email us at info@relevant-research.com.
