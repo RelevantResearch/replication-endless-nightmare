@@ -12,7 +12,7 @@ Our process and findings are outlined briefly below, while all of our R code and
 
 ### Method and Tools
 
-This replication study is limited in scope to the first part of the report, based specifically on a reproduction of the ICE solitary confinement data obtained from the Harvard team's FOIA requests.
+This replication study is limited in scope to the first part of the report, based specifically on reproducing the ICE solitary confinement data obtained from the Harvard team's FOIA requests.
 The researchers presented their analysis on pages one through eighteen of their report, with figures two through four and five through seven constructed from summaries of the ICE dataset.
 All in-text statistics, tables, and figures have been replicated here.
 This replication does not include an analysis of the in-person interviews of former detainees that make up the rest of the report. 
