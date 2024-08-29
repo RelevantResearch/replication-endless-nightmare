@@ -36,23 +36,23 @@ For in-text citations of data, the script `replication_code.r` contains the comm
 
 Fig. 2
 <img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/orig_fig2.png width="310"><img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/rep_fig2.png width="300">
-Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figuredata)
+Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figure_data)
 
 Fig. 3
 <img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/orig_fig3.png width="317"><img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/rep_fig3.png width="300">
-Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figuredata)
+Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figure_data)
 
 Fig. 4
 <img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/orig_fig4.png width="325"><img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/rep_fig4.png width="300">
-Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figuredata)
+Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figure_data)
 
 Fig. 6
 <img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/orig_fig6.png width="326"><img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/rep_fig6.png width="350">
-Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figuredata)
+Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figure_data)
 
 Fig. 7
 <img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/orig_fig7.png width="300"><img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/rep_fig7.png width="306">
-Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figuredata)
+Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figure_data)
 
 ### Results
 The vast majority of calculations using the FOIA case-by-case records are correct. 
