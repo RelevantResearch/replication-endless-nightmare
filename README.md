@@ -59,15 +59,10 @@ The vast majority of calculations using the FOIA case-by-case records are correc
 See the replication file `replication_code.r`.
 As seen above, graphics 2, 3, 4, 6, and 7 were successfully reproduced.
 
-This replication identified three minor discrepancies, which illustrate Relevant Research's attention to detail.
-Two of the three discrepancies are differences of a single whole number.
-The third discrepancy is a percentage calculation that is two percentage points off in Relevant Research's code than the researchers. 
-The three minor discrepancies are explained below.
-
-#### Page 14
-
-- **Original Text**: "682 solitary confinement placements lasted at least 90 days, while *42* lasted over a year."
-- **RR's Replication**: A total of *43* solitary confinement placements lasted over one year.
+This replication identified two minor discrepancies, which illustrate Relevant Research's attention to detail.
+One discrepancy amounts to a difference of a single whole number.
+The other discrepancy is a percentage calculation that is two percentage points off in Relevant Research's code compared with that of the researchers. 
+The two minor discrepancies are explained below.
 
 #### Page 17
 
@@ -79,7 +74,7 @@ The three minor discrepancies are explained below.
 - **Original Text**: "The percentage of immigrants with mental health conditions placed in solitary confinement jumped from *35* percent in 2019 to 56 percent in 2023."
 - **RR's Replication**: The percentage of immigrants with mental illness in 2019 came to *33.3* percent.
 
-To reiterate, none of the discrepancies found here should assume that the research team committed errors in calculation.
+To reiterate, neither of the discrepancies found here should assume that the research team committed errors in calculation.
 This replication merely points out the minimal situations in which the calculations do not seem to align between the researchers processing in Stata and our analysis in R.
 If any of the discrepancies do in fact rise to the level of error, it does not impact the findings of the report.
 Solitary confinement in ICE detention remains a subject deserving of further scrutiny, and we applaud the research team for their persistence in documenting abuses and making their data, methods, and findings public.
