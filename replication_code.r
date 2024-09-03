@@ -161,10 +161,9 @@ length_90 <-df |> #Determine number of instances when a detainee had a mental il
 length_365 <-df |> #Determine number of instances when a detainee had a mental illness and had a stay > 365 days
   filter(`Tracking Number` != "") |>#Filter out cases that have no tracking number 
   filter(!is.na(`Release Date`))|>
-  filter(`Length of Stay` >= 365) |> #43 detainees (Discrepancy. 42 reported in text)
+  filter(`Length of Stay` > 365) |> #42 detainees
   group_by(`Mental Illness`)|>
-  count() # (8 mental illness + 2 serious mental illness) / 43 = 23.3% (~almost 25 percent had mental health condition)
-
+  count() # (8 mental illness + 2 serious mental illness) / 42 = 23.8% (~almost 25 percent had mental health condition)
 
 ## Sort facilities by longest length of stay and average length of stay
 longest_stays <- df |>
