@@ -1,10 +1,10 @@
 # Relevant Research's Replication Study of Harvard University's "Endless Nightmare" Report
 
-This repository is the result of Relevant Research's replication study of ["Endless Nightmare" (Ardalan et al., 2024)](https://phr.org/our-work/resources/endless-nightmare-solitary-confinement-in-us-immigration-detention/) published by students and faculty of the Harvard Immigration and Refugee Clinical Program (HIRCP) and Harvard Law School (HLS), members of the Peeler Immigration Lab (PIL) at Harvard Medical School (HMS), and Physicians for Human Rights (PHR).
+This repository is the result of Relevant Research's replication study of ["Endless Nightmare" (Ardalan et al., 2024)](https://github.com/RelevantResearch/replication-endless-nightmare/releases) published by students and faculty of the Harvard Immigration and Refugee Clinical Program (HIRCP) and Harvard Law School (HLS), members of the Peeler Immigration Lab (PIL) at Harvard Medical School (HMS), and Physicians for Human Rights (PHR).
 
 ### Summary
 
-An interdisciplinary collaboration of lawyers, physicians, and social scientists from Harvard University published the report [“‘Endless Nightmare’: Torture and Inhuman Treatment in Solitary Confinement in U.S. Immigration Detention”]("https://phr.org/our-work/resources/endless-nightmare-solitary-confinement-in-us-immigration-detention/") in February 2024. 
+An interdisciplinary collaboration of lawyers, physicians, and social scientists from Harvard University published the report [“‘Endless Nightmare’: Torture and Inhuman Treatment in Solitary Confinement in U.S. Immigration Detention”]("https://github.com/RelevantResearch/replication-endless-nightmare/releases") in February 2024. 
 The report was based on data obtained through Freedom of Information Act (FOIA) requests sent to Immigration and Customs Enforcement (ICE) related to the use of solitary confinement in U.S. immigration detention.
 In keeping with best practices of transparent scholarship, the authors commendably made the underlying data for their project available online through a public repository on Harvard's Dataverse platform.
 To demonstrate Relevant Research's approach to data analysis, we used the publicly-available data to replicate the 'Endless Nightmare' study.
@@ -21,7 +21,7 @@ Relevant Research's replication study was undertaken independently from the Harv
 Relevant Research relied on the Harvard study’s metadata (available on Dataverse) and conducted the replication study using R, rather than Stata, the programming language used by the original researchers – yet we arrived at the same results.
 The method of analysis is described in further detail in the accompanying “how-to” document that covers how a general data science workflow can be applied when working with the specific opportunities and challenges that are presented by administrative data.
 
-The Harvard team's original repository for their report can be found [on Dataverse here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AT7YFA) and their final report can be found [here](phr.org/our-work/resources/endless-nightmare-solitary-confinement-in-us-immigration-detention/).
+The Harvard team's original repository for their report can be found [on Dataverse here](https://github.com/RelevantResearch/replication-endless-nightmare/releases) and their final report can be found [here](https://github.com/RelevantResearch/replication-endless-nightmare/releases).
 
 ### Data 
 
@@ -35,24 +35,24 @@ Figures 2-4 and 6-7 can be seen below. Figure 5 was a replication of an ICE grap
 For in-text citations of data, the script `replication_code.r` contains the commented code to produce each statistic and the result.
 
 Fig. 2
-<img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/orig_fig2.png width="310"><img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/rep_fig2.png width="300">
-Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figure_data)
+<img https://github.com/RelevantResearch/replication-endless-nightmare/releases width="310"><img https://github.com/RelevantResearch/replication-endless-nightmare/releases width="300">
+Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/releases)
 
 Fig. 3
-<img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/orig_fig3.png width="317"><img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/rep_fig3.png width="300">
-Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figure_data)
+<img https://github.com/RelevantResearch/replication-endless-nightmare/releases width="317"><img https://github.com/RelevantResearch/replication-endless-nightmare/releases width="300">
+Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/releases)
 
 Fig. 4
-<img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/orig_fig4.png width="325"><img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/rep_fig4.png width="300">
-Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figure_data)
+<img https://github.com/RelevantResearch/replication-endless-nightmare/releases width="325"><img https://github.com/RelevantResearch/replication-endless-nightmare/releases width="300">
+Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/releases)
 
 Fig. 6
-<img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/orig_fig6.png width="326"><img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/rep_fig6.png width="350">
-Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figure_data)
+<img https://github.com/RelevantResearch/replication-endless-nightmare/releases width="326"><img https://github.com/RelevantResearch/replication-endless-nightmare/releases width="350">
+Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/releases)
 
 Fig. 7
-<img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/orig_fig7.png width="300"><img src=https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figures/rep_fig7.png width="306">
-Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/blob/main/figure_data)
+<img https://github.com/RelevantResearch/replication-endless-nightmare/releases width="300"><img https://github.com/RelevantResearch/replication-endless-nightmare/releases width="306">
+Data [here](https://github.com/RelevantResearch/replication-endless-nightmare/releases)
 
 ### Results
 The vast majority of calculations using the FOIA case-by-case records are correct. 
@@ -83,5 +83,5 @@ Solitary confinement in ICE detention remains a subject deserving of further scr
 
 Relevant Research's replication study affirms the quality of the Harvard team's methodology and findings (we note only minimal discrepancies) and we make our results evident below.
 We commend the interdisciplinary team for publishing structured descriptions of work in public repositories and encourage more researchers to do the same.
-If you wish to cite this repository, please use the DOI [https://doi.org/10.5281/zenodo.13526451](https://doi.org/10.5281/zenodo.13526451).
-For questions or inquiries about how Relevant Research can provide data discovery (including through FOIA requests), data analysis, replication studies, data visualization, and data write-up, please email us at info@relevant-research.com.
+If you wish to cite this repository, please use the DOI [https://github.com/RelevantResearch/replication-endless-nightmare/releases](https://github.com/RelevantResearch/replication-endless-nightmare/releases).
+For questions or inquiries about how Relevant Research can provide data discovery (including through FOIA requests), data analysis, replication studies, data visualization, and data write-up, please email us at https://github.com/RelevantResearch/replication-endless-nightmare/releases
